@@ -10,7 +10,7 @@ A dedicated profit tracking and inventory valuation application designed specifi
 2. **Dynamic Conversions:** Dollar conversions update underneath your input fields as you type, handling decimal values.
 3. **Save Trades:** Click **Kaydet** to store your profitable entries into your local inventory ledger.
 4. **View Ledger:** Open **Tüm Eşyalar** to access your comprehensive inventory ledger tracking purchase costs (**Satın Alım Değeri**) and acquisition dates (**Satın Alım Tarihi**).
-5. **Quick Actions:** Use hotkeys like **SHIFT + Sol Tık** to interact with logged elements, sum totals with **Topla**, or purge data with **Sil** or **Sıfırla**.
+5. **Quick Actions:** Use hotkeys like **SHIFT + Sol Tık** to interact with logged elements, sum totals with **Topla**, or purge data with **Sil**.
 
 ---
 
